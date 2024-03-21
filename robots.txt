@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ep1phany.com/sitemap.xml
+Sitemap: https://ep1phany.me/sitemap.xml

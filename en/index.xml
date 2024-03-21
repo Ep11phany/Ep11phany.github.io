@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ep1phany&#39;s Blog</title>
-    <link>https://ep1phany.com/en/</link>
+    <link>https://ep1phany.me/en/</link>
     <description>Recent content on Ep1phany&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
     <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ep1phany.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ep1phany.me/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 F1 Insight</title>
-      <link>https://ep1phany.com/en/posts/blog/2024-f1-insight/</link>
+      <link>https://ep1phany.me/en/posts/blog/2024-f1-insight/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://ep1phany.com/en/posts/blog/2024-f1-insight/</guid>
+      <guid>https://ep1phany.me/en/posts/blog/2024-f1-insight/</guid>
       <description>3月15号才差不多把基于Hugo+PaperMod的新博客捣鼓好，第一篇我决定写写今年的F1，毕竟从2月开始它就持续带来令人惊喜甚至惊吓的消</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://ep1phany.com/en/about/</link>
+      <link>https://ep1phany.me/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ep1phany.com/en/about/</guid>
+      <guid>https://ep1phany.me/en/about/</guid>
       <description>about</description>
     </item>
   </channel>
