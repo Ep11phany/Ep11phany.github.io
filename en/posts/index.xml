@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Ep1phany&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language></language>
-    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 10:19:12 +0800</lastBuildDate>
     <atom:link href="https://ep1phany.me/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking about LLM Uncertainty</title>
+      <link>https://ep1phany.me/en/posts/blog/llm_uncertainty/</link>
+      <pubDate>Mon, 24 Jun 2024 10:19:12 +0800</pubDate>
+      <guid>https://ep1phany.me/en/posts/blog/llm_uncertainty/</guid>
+      <description>暑假会做LLM uncertainty的工作，因此这里列举一些相关的note和观察。 Index Title Status Reminder 1 To Believe or Not to Believe Your LLM Reading 2024.6 DeepMind的工作，分辨</description>
+    </item>
     <item>
       <title>2024 F1 Insight</title>
       <link>https://ep1phany.me/en/posts/blog/2024-f1-insight/</link>
